@@ -25,8 +25,8 @@ The core components of the software will be
 ## State
 
 Right now we are in the brain storming phase.
-Features and layout is under construction and we are looking forward to receive input.
+Features and layout are under construction and we are looking forward to receive input.
 
 ## Contributing
 
-See the [CONTRIBUTING.md](CONTRIBUTING.md)
+See the CONTRIBUTING.md.
