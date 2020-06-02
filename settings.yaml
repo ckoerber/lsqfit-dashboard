@@ -1,0 +1,5 @@
+SECRET_KEY: "!8a=@_5jf2n63q1s+=1t_7bk+3e9s@^1zcu+(vo3elpe4%rt6w"
+PROJECT_APPS:
+    - lsqfit_dashboard.fits
+ALLOWED_HOSTS: []
+DEBUG: True
